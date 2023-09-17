@@ -1,2 +1,3 @@
 Startmtterminal:让MT管理器Linux终端安装额外命令与程序
 ====
+建立此储存库的目的是为了方便广大MT管理器用户更方便的使用MT管理器，比如运行Python代码和使用git一键克隆github储存库等
